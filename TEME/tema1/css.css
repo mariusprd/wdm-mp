@@ -1,0 +1,70 @@
+#hop {
+	background-color: rgba(70,169,224,0.4);
+}
+
+#welcom {
+	background-color: rgba(0,18,166,0.3);
+}
+
+#contac {
+	background: rgb(0,0,0);
+	background: linear-gradient(180deg, rgba(0,0,0,0.2) 0%, rgba(255,255,255,1) 100%);
+}
+
+#orderPlaced {
+	background-color: rgba(0,18,166,0.3);
+}
+
+nav {
+	background: rgb(0,18,166);
+	background: linear-gradient(300deg, rgba(0,18,166,0.8) 0%, rgba(70,169,224,0.8) 100%);
+}
+
+footer {
+	background: rgb(0,18,166);
+	background: linear-gradient(300deg, rgba(0,18,166,0.2) 0%, rgba(70,169,224,0.2) 100%);
+}
+
+.card-body {
+	background: rgb(0,0,0);
+	background: linear-gradient(180deg, rgba(0,0,0,0.2) 0%, rgba(255,255,255,1) 100%);
+	border-radius: 5px;
+	box-shadow: 1px 1px 5px 1px #D0D3D4;
+}
+
+.btn-bun {
+	background: rgb(0,18,166);
+	background: linear-gradient(320deg, rgba(0,18,166,0.9) 0%, rgba(70,169,224,0.9) 100%);
+}
+
+.jumbotron {
+	background-color: #F2F3F4;
+}
+
+li a {
+	transition: background-color;
+}
+
+li a:hover {
+	background: rgba(0,0,0,0.05);
+	border-radius: 5px;
+	box-shadow: 1px 1px 5px 1px black;
+}
+
+.btn-bun {
+	transition: background-color;
+}
+
+.btn-bun:hover {
+	border-radius: 5px;
+	box-shadow: 1px 1px 5px 1px black;
+}
+
+.card {
+	border-radius: 5px;
+	box-shadow: 1px 1px 5px 1px #D0D3D4;
+}
+
+.container {
+	border-radius: 5px;
+}
